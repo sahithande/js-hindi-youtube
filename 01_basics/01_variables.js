@@ -5,7 +5,7 @@ accountCity = "khammam";
 
 let accountState;
 
-//accountId = 12232;
+//accountId = 12232; not allowed
 
 accountEmail = "sahithande10@gmail.com";
 accountPassword = "54321";
